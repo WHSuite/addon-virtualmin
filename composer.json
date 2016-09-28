@@ -1,0 +1,15 @@
+{
+    "name": "whsuite/addon-virtualmin",
+    "type": "whsuite-addon",
+    "description": "Virtualmin plugin for use within WHSuite",
+    "license": "Private",
+    "authors": [
+        {
+            "name": "WHSuite",
+            "email": "info@whsuite.com"
+        }
+    ],
+    "require": {
+        "snscripts/virtualmin-sdk": "0.*"
+    }
+}

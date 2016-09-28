@@ -1,0 +1,25 @@
+{
+    "name": "English",
+    "slug": "en",
+    "is_active": "1",
+    "language_code": "en",
+    "text_direction": "LTR",
+    "addon": "virtualmin",
+    "Strings": [
+        {
+            "slug": "virtualmin_server_port",
+            "text": "Virtualmin Server Port"
+        },
+        {
+            "slug": "virtualmin_server_disable_verify",
+            "text": "Disable Virtualmin SSL Checks"
+        },
+        {
+            "slug": "virtualmin_server_disable_verify_help",
+            "text": "This should only be used during development when proper SSL certificates may not be available."
+        }
+    ],
+    "EmailTemplates": [
+
+    ]
+}
